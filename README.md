@@ -14,9 +14,13 @@ I am excited to share my latest project – a cutting-edge Streamlit application
 **Tech Stack Insight:**
 
 Built using **Streamlit** for a smooth and interactive **user interface**.
+
 **PyTube** for downloading audio streams from **YouTube**.
+
 **MoviePy** to handle **local video files**.
+
 **Whisper** for **audio transcription**.
+
 **FPDF** for **PDF** generation.
 
 
