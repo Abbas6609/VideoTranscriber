@@ -1,10 +1,23 @@
-"# VideoTranscriber" 
+**🚀 "Tosief's Reel to Paper" - A very practical Video Transcription App! 🎬📑**
 
+I am excited to share my latest project – a cutting-edge Streamlit application designed to seamlessly transcribe online or offline video content into pdf file! 
+"Tosief's Reel to Paper" uses advanced AI to help users extract audio from videos and convert it into editable text documents, whether the videos are sourced from YouTube or your local storage.
 
+**Key Features:**
 
+**🌐 YouTube and Local Video Support:** Easily **extract audio** from **online** and **local video** files.
 
+**🎤 Whisper-Powered Transcription:** Utilizes **OpenAI’s Whisper model** for accurate, state-of-the-art speech recognition.
 
+**📄 PDF Transcript Generation:** Automatically **generates** a well-formatted **PDF** file of the transcribed text.
 
+**Tech Stack Insight:**
+
+Built using **Streamlit** for a smooth and interactive **user interface**.
+**PyTube** for downloading audio streams from **YouTube**.
+**MoviePy** to handle **local video files**.
+**Whisper** for **audio transcription**.
+**FPDF** for **PDF** generation.
 
 
 
